@@ -6,6 +6,12 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+## [2.4.4] - 2026-11-16
+
+### Added
+
+- Update post on EAGxBerlin 2026.
+
 ## [2.4.3] - 2026-11-14
 
 ### Changed
