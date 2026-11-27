@@ -5,6 +5,10 @@ pitch: Claude Code sessions on a cloud VM, driven from a phone or a browser, wit
 links:
   - label: iOS client
     url: https://github.com/frederikberg/pai-ios
+  - label: Android client
+    url: https://github.com/frederikberg/pai-android
+  - label: Garmin watch app
+    url: https://github.com/frederikberg/pai-garmin
   - label: Linux dictation client
     url: https://github.com/frederikberg/pai-stt
 image: ../../assets/art/assistant.jpg

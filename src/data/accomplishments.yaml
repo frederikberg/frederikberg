@@ -4,6 +4,16 @@
 # The `cv` block is the CV's certification line: entries with `show: true` are joined by
 # their `label`, sorted by `order`.
 
+- id: thm-sal1
+  title: TryHackMe Security Analyst Level 1 (SAL1)
+  issuer: TryHackMe
+  date: 2026-11
+  expires: 2029-11
+  cv:
+    show: true
+    label: TryHackMe Security Analyst Level 1 (SAL1)
+    order: 3
+
 - id: ckad
   title: Certified Kubernetes Application Developer (CKAD)
   issuer: The Linux Foundation / CNCF
@@ -40,7 +50,7 @@
   cv:
     show: true
     label: Tines Core and Advanced
-    order: 5
+    order: 6
 
 - id: elastic-analyst
   title: Elastic Certified Analyst
@@ -71,7 +81,7 @@
   cv:
     show: true
     label: CompTIA Security+
-    order: 3
+    order: 4
 
 - id: google-cybersecurity
   title: Google Cybersecurity Professional Certificate
@@ -82,7 +92,7 @@
   cv:
     show: true
     label: Google Cybersecurity Professional Certificate
-    order: 4
+    order: 5
 
 - id: ml4good
   title: ML4Good, AI alignment camp
