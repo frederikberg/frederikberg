@@ -6,6 +6,12 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+## [2.4.6] - 2026-11-27
+
+### Fixed
+
+- The CV download carries the SAL1 certification.
+
 ## [2.4.5] - 2026-11-27
 
 ### Added
