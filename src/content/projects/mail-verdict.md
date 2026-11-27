@@ -8,6 +8,8 @@ links:
     url: https://github.com/frederikberg/postimap
   - label: iOS client
     url: https://github.com/frederikberg/mail-verdict-ios
+  - label: Android client
+    url: https://github.com/frederikberg/mail-verdict-android
 image: ../../assets/art/mail.jpg
 image_alt: A person at a wooden desk sorting letters into pigeonholes, two crumpled envelopes in the waste basket
 order: 2

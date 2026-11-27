@@ -1,13 +1,16 @@
 # Smaller public repositories, listed under "More on GitHub" without a card.
+- name: trip-diary
+  url: https://github.com/frederikberg/trip-diary
+  description: A map diary of a trip, with GPX tracks, short notes and the photos from your own Immich on one page you can share by link.
+- name: push-relay
+  url: https://github.com/frederikberg/push-relay
+  description: A stateless relay that forwards encrypted push notifications to Apple and Firebase for self-hosted apps.
 - name: nextcloud-open-local
   url: https://github.com/frederikberg/nextcloud-open-local
   description: A browser extension that opens the Nextcloud file you are looking at in your local desktop app.
 - name: mirrorcal-outlook
   url: https://github.com/frederikberg/mirrorcal-outlook
   description: A browser extension that mirrors your Outlook web calendar, one way, into a CalDAV calendar.
-- name: twilio-voice-bridge
-  url: https://github.com/frederikberg/twilio-voice-bridge
-  description: Connects Twilio phone calls to a realtime voice model over WebSocket.
 - name: tandemvault
   url: https://github.com/frederikberg/tandemvault
   description: Keeps selected 1Password items in step with SOPS/age vaults on disk.

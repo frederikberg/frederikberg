@@ -6,6 +6,18 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+## [2.4.5] - 2026-11-27
+
+### Added
+
+- TryHackMe Security Analyst Level 1 (SAL1) under certifications.
+- trip-diary and push-relay under "More on GitHub".
+- Android client and Garmin watch app links on the personal AI card; Android client link on the MailVerdict card.
+
+### Removed
+
+- twilio-voice-bridge from "More on GitHub", archived on GitHub.
+
 ## [2.4.4] - 2026-11-16
 
 ### Added
